@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.community.config.core.models.TestHelloWorldModel
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.68 s <<< FAILURE! - in com.community.config.core.models.TestHelloWorldModel
+testGetMessage(com.community.config.core.models.TestHelloWorldModel)  Time elapsed: 0.645 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.community.config.core.models.TestHelloWorldModel.setup(TestHelloWorldModel.java:49)
+

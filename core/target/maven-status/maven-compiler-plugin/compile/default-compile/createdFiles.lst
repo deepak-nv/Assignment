@@ -1,0 +1,10 @@
+com\community\config\core\servlets\SimpleServlet.class
+com\community\config\core\filters\LoggingFilter.class
+com\community\config\core\models\HelloWorldModel.class
+com\community\config\core\schedulers\SimpleScheduledTask.class
+com\community\config\core\listeners\SimpleResourceListener.class
+com\community\config\core\MySimpleServiceImpl.class
+com\community\config\core\schedulers\SimpleScheduledTask$Config.class
+com\community\config\core\MySimpleService.class
+com\community\config\core\MyServiceConfiguration.class
+com\community\config\core\package-info.class
